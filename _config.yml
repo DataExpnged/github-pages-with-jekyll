@@ -1,14 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Sun Praising 101
+author: Data_Expunged
+email: cjohn2@ocdsb.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Praising the sun is an important part of many warriors' lives, 
+  thus a proper method is required for proper sun praising. 
+  this site will provide a step by step process on how to 
+  properly praise the sun.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username: DataExpunged
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
